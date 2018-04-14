@@ -1,0 +1,7 @@
+[package]
+name = "rustcafe"
+version = "0.1.0"
+authors = ["Richard van Roy <info@hjortronic.io>"]
+
+[dependencies]
+regex = "0.2"
